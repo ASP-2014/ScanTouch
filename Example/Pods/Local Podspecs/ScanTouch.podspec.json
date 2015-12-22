@@ -1,0 +1,25 @@
+{
+  "name": "ScanTouch",
+  "version": "0.1.0",
+  "summary": "A short description of ScanTouch.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/ScanTouch",
+  "license": "MIT",
+  "authors": {
+    "Anshu Singh parihar": "anshu.parihar1@rsystems.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/ScanTouch.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "ScanTouch": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

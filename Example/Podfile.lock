@@ -1,0 +1,14 @@
+PODS:
+  - ScanTouch (0.1.0)
+
+DEPENDENCIES:
+  - ScanTouch (from `../`)
+
+EXTERNAL SOURCES:
+  ScanTouch:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ScanTouch: 29e69889cb60f82baf8359d32863d0e82846327a
+
+COCOAPODS: 0.39.0

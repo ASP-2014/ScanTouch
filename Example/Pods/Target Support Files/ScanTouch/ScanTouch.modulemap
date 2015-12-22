@@ -1,0 +1,6 @@
+framework module ScanTouch {
+  umbrella header "ScanTouch-umbrella.h"
+
+  export *
+  module * { export * }
+}
